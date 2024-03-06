@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, This is my GitHub profile for you to know me better ! 👋
 
 <!--
 **Cleyans/Cleyans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
