@@ -6,7 +6,7 @@
 - I actually never code before, I tried the "Piscine" because i didn't know what to do in the future and i surprisingly loved it.
 - So know i'm doing the courses at 42, learning C, C++ and on the side i'm trying to learn JS, CSS and maybe more in the future.
 
-<h2 align="left">Finish project</h2>
+<h2 align="left">Finished project</h2>
 
 - __LIBFT__ > A library with useful fonctions that would help me for my next project. >> __[HERE](https://github.com/Cleyans/Libft)__
 - __PRINTF__ > A recreated printf (Didn't do as mush as the normal one). >> __[HERE](https://github.com/Cleyans/Printf)__
