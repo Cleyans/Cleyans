@@ -8,11 +8,11 @@
 
 <h2 align="left">Finish project :</h2>
 
-- **Libft** > A library with useful fonctions that would help me for my next project.
-- **Printf** > A recreated printf (Didn't do as mush as the normal one).
-- **GetNexLine** > A fonction that is use to read line by line.
-- **SoLong** > A game created with the lib MiniLibX.
-- **Pipex** > A program that does like the pipe shell command at a certain extent.
+- **Libft** > A library with useful fonctions that would help me for my next project. >> [HERE]
+- **Printf** > A recreated printf (Didn't do as mush as the normal one). >> [HERE]
+- **GetNexLine** > A fonction that is use to read line by line. >> [HERE]
+- **SoLong** > A game created with the lib MiniLibX. >> [HERE]
+- **Pipex** > A program that does like the pipe shell command at a certain extent. >> [HERE]
 
 <h2>The projects that i'm curently doing :</h2>
 
