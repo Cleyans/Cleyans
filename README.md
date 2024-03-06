@@ -1,5 +1,9 @@
 <h1 align="center">Hi , I'm Cleyans 👋</h1>
-<h3 align="center">A new student currently doing the School 42 cursus, never code before but actually love it.</h3>
+
+<h2 align="center">About me</h3>
+- I am a French student at School 42 Le Havre.
+- I actually never code before, I tried the "Piscine" because i didn't know what to do in the future and i surprisingly loved it.
+- So know i'm doing the courses at 42 learning C, C++ and on the side i'm trying to learn JS, CSS and maybe more in the future.
 
 <h2 align="left">Finish project :</h2>
 
