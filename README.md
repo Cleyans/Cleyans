@@ -18,4 +18,10 @@
 
 - **Push_Swap** > A sort algorithm.
 
+<h2>Facts</h2>
+
+- My favorite is 🦊
+- My favorite color is 💜
+- The country that i love the most is 🇫🇷
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cleyans&show_icons=true&locale=en" alt="cleyans" /></p>
