@@ -13,7 +13,6 @@
 - __GET NEXT LINE__ > A fonction that is use to read line by line. >> __[HERE](https://github.com/Cleyans/GetNextLine)__
 - __SO LONG__ > A game created with the lib MiniLibX. >> __[HERE](https://github.com/Cleyans/SoLong)__
 - __PIPEX__ > A program that does like the pipe shell command at a certain extent. >> __[HERE](https://github.com/Cleyans/Pipex)__
-- 
 
 <h2>The projects that i'm curently doing :</h2>
 
