@@ -27,4 +27,4 @@
 - My favorite Webtoon is [Omniscient Reader](https://www.webtoons.com/en/action/omniscient-reader/list?title_no=2154)
 - The person that i love the most is **My mom**, obviously :)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cleyans&show_icons=true&locale=en" alt="cleyans" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cleyans&show_icons=true&locale=en" alt="cleyans" /></p>
