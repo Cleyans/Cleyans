@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Cleyans</h1>
 <h3 align="center">A new student currently doing the School 42 cursus, never code before but actually love it.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cleyans&label=Profile%20views&color=0e75b6&style=flat" alt="cleyans" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=cleyans&label=Profile%20views&color=0e75b6&style=flat" alt="cleyans" /> </p>
 
-<h2 align="left">I already finished working on : </h2>
+<h2 align="left">Finish project :</h2>
 
 - **Libft** A library with useful fonctions that would help me for my next project.
 - **Printf** A recreated printf (Didn't do as mush as the normal one).
@@ -11,9 +11,9 @@
 - **Pipex** A program that does like the pipe shell command at a certain extent.
 - **So_long** A game created with the lib MiniLibX.
 
-- I’m currently learning **C, C++, JS, CSS**
+<h2>The projects that i'm curently doing :</h2>
 
-- I'm curently working on : **Pipex, Push_swap**
+- **Push_Swap**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
