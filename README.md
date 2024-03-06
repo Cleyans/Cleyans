@@ -6,7 +6,7 @@
 - I actually never code before, I tried the "Piscine" because i didn't know what to do in the future and i surprisingly loved it.
 - So know i'm doing the courses at 42, learning C, C++ and on the side i'm trying to learn JS, CSS and maybe more in the future.
 
-<h2 align="left">Finish project :</h2>
+<h2 align="left">Finish project</h2>
 
 - __LIBFT__ > A library with useful fonctions that would help me for my next project. >> __[HERE](https://github.com/Cleyans/Libft)__
 - __PRINTF__ > A recreated printf (Didn't do as mush as the normal one). >> __[HERE](https://github.com/Cleyans/Printf)__
@@ -14,7 +14,7 @@
 - __SO LONG__ > A game created with the lib MiniLibX. >> __[HERE](https://github.com/Cleyans/SoLong)__
 - __PIPEX__ > A program that does like the pipe shell command at a certain extent. >> __[HERE](https://github.com/Cleyans/Pipex)__
 
-<h2>The projects that i'm curently doing :</h2>
+<h2>The projects that i'm curently doing</h2>
 
 - **Push_Swap** > A sort algorithm.
 
@@ -27,7 +27,6 @@
 - My favorite Webtoon is [Omniscient Reader](https://www.webtoons.com/en/action/omniscient-reader/list?title_no=2154)
 - The person that i love the most is **My mom**, obviously :)
   <p>
-
-    
+  &nbsp;
   </p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cleyans&show_icons=true&locale=en" alt="cleyans" /></p>
