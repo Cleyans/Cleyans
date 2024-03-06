@@ -18,10 +18,11 @@
 
 - **Push_Swap** > A sort algorithm.
 
-<h2>Facts</h2>
+<h2>My favorite things</h2>
 
 - My favorite is 🦊
 - My favorite color is 💜
-- The country that i love the most is 🇫🇷
+- The country that i love the most is France and Thailande.
+- My favorites animes are [Magi : The Labyrinth of Magic](https://www.nautiljon.com/animes/magi+-+the+labyrinth+of+magic.html), [The Ancient Magus Bride](https://www.nautiljon.com/mangas/the+ancient+magus+bride.html). 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cleyans&show_icons=true&locale=en" alt="cleyans" /></p>
