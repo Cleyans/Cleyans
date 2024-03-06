@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Cleyans</h1>
 <h3 align="center">A new student currently doing the School 42 cursus, never code before but actually love it.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=cleyans&label=Profile%20views&color=0e75b6&style=flat" alt="cleyans" /> </p>
-
 <h2 align="left">Finish project :</h2>
 
-- <link href=https://github.com/Cleyans/TroncCommun>**Libft** A library with useful fonctions that would help me for my next project./>
-- **Printf** A recreated printf (Didn't do as mush as the normal one).
-- **Get_next_line** A fonction that is use to read line by line.
-- **Pipex** A program that does like the pipe shell command at a certain extent.
-- **So_long** A game created with the lib MiniLibX.
+- **Libft** > A library with useful fonctions that would help me for my next project.
+- **Printf** > A recreated printf (Didn't do as mush as the normal one).
+- **Get_next_line** > A fonction that is use to read line by line.
+- **Pipex** > A program that does like the pipe shell command at a certain extent.
+- **So_long** > A game created with the lib <MiniLibX>.
 
 <h2>The projects that i'm curently doing :</h2>
 
-- **Push_Swap**
+- **Push_Swap** > A sort algorithm.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
