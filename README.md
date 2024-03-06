@@ -26,5 +26,8 @@
 - My favorites animes are [Magi : The Labyrinth of Magic](https://www.nautiljon.com/animes/magi+-+the+labyrinth+of+magic.html), [The Ancient Magus Bride](https://www.nautiljon.com/mangas/the+ancient+magus+bride.html) !
 - My favorite Webtoon is [Omniscient Reader](https://www.webtoons.com/en/action/omniscient-reader/list?title_no=2154)
 - The person that i love the most is **My mom**, obviously :)
+  <p>
 
+    
+  </p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cleyans&show_icons=true&locale=en" alt="cleyans" /></p>
