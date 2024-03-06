@@ -12,7 +12,7 @@
 - **Printf** > A recreated printf (Didn't do as mush as the normal one).
 - **Get_next_line** > A fonction that is use to read line by line.
 - **Pipex** > A program that does like the pipe shell command at a certain extent.
-- **So_long** > A game created with the lib <MiniLibX>.
+- **So_long** > A game created with the lib MiniLibX.
 
 <h2>The projects that i'm curently doing :</h2>
 
