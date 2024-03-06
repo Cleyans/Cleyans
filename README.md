@@ -20,9 +20,9 @@
 
 <h2>My favorite things</h2>
 
-- My favorite animal 🦊
-- My favorite color 💜
-- The country that i love the most are France, Thailande, Korea, Japon and Canada.
+- My favorite animal are Fox and Cats ! 🐈 🦊
+- My favorite color Purple 💜
+- The country that i love the most are France, Thailande, Korea, Japon and Canada.![image](https://github.com/Cleyans/Cleyans/assets/138831731/4328cb6a-c926-4267-86a2-fc4bb2ed218a)
 - My favorites animes are [Magi : The Labyrinth of Magic](https://www.nautiljon.com/animes/magi+-+the+labyrinth+of+magic.html), [The Ancient Magus Bride](https://www.nautiljon.com/mangas/the+ancient+magus+bride.html) !
 - My favorite Webtoon is [Omniscient Reader](https://www.webtoons.com/en/action/omniscient-reader/list?title_no=2154)
 - The person that i love the most is **My mom**, obviously :)
