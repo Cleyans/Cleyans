@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cleyans</h1>
+<h1 align="center">Hi , I'm Cleyans 👋</h1>
 <h3 align="center">A new student currently doing the School 42 cursus, never code before but actually love it.</h3>
 
 <h2 align="left">Finish project :</h2>
