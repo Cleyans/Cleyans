@@ -22,7 +22,7 @@
 
 - My favorite animal are Fox and Cats ! 🐈 🦊
 - My favorite color Purple 💜
-- The country that i love the most are ![image](https://github.com/Cleyans/Cleyans/assets/138831731/4328cb6a-c926-4267-86a2-fc4bb2ed218a)   ![image](https://github.com/Cleyans/Cleyans/assets/138831731/a0507243-f1d9-4cc1-959f-02a60d8ae4f6)   ![image](https://github.com/Cleyans/Cleyans/assets/138831731/ee4f3ccc-844d-4718-83b0-b86dfeb41831)   ![image](https://github.com/Cleyans/Cleyans/assets/138831731/bd171dac-6af5-4faf-8ea4-699e9283afa3)   ![image](https://github.com/Cleyans/Cleyans/assets/138831731/6bab0d59-ae5e-4226-a2ed-5745f6033df1)  >> The flags that i used are form [jackiboy](https://github.com/jackiboy) !
+- The country that i love the most are ![image](https://github.com/Cleyans/Cleyans/assets/138831731/4328cb6a-c926-4267-86a2-fc4bb2ed218a) &nbsp ![image](https://github.com/Cleyans/Cleyans/assets/138831731/a0507243-f1d9-4cc1-959f-02a60d8ae4f6) &nbsp ![image](https://github.com/Cleyans/Cleyans/assets/138831731/ee4f3ccc-844d-4718-83b0-b86dfeb41831) &nbsp ![image](https://github.com/Cleyans/Cleyans/assets/138831731/bd171dac-6af5-4faf-8ea4-699e9283afa3) &nbsp ![image](https://github.com/Cleyans/Cleyans/assets/138831731/6bab0d59-ae5e-4226-a2ed-5745f6033df1) &nbsp >> &nbsp The flags that i used are form [jackiboy](https://github.com/jackiboy) !
 - My favorites animes are [Magi : The Labyrinth of Magic](https://www.nautiljon.com/animes/magi+-+the+labyrinth+of+magic.html), [The Ancient Magus Bride](https://www.nautiljon.com/mangas/the+ancient+magus+bride.html) !
 - My favorite Webtoon is [Omniscient Reader](https://www.webtoons.com/en/action/omniscient-reader/list?title_no=2154)
 - The person that i love the most is **My mom**, obviously :)
