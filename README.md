@@ -23,7 +23,7 @@
 
 - My favorite animal is 🦊
 - My favorite color is 💜
-- The country that i love the most is France, Thailande, Korea, Japon and Canada.
+- The country that i love the most are France, Thailande, Korea, Japon and Canada.
 - My favorites animes are [Magi : The Labyrinth of Magic](https://www.nautiljon.com/animes/magi+-+the+labyrinth+of+magic.html), [The Ancient Magus Bride](https://www.nautiljon.com/mangas/the+ancient+magus+bride.html) !
 - My favorite Webtoon is [Omniscient Reader](https://www.webtoons.com/en/action/omniscient-reader/list?title_no=2154)
 - The person that i love the most is **My mom**, obviously :)
