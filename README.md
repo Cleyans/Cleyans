@@ -16,7 +16,11 @@
 
 <h2>The projects that i'm curently doing</h2>
 
-- **Push_Swap** > A sort algorithm.
+- __Push_Swap__ > A sort algorithm.
+
+<h2>Personal Projects</h2>
+
+- __None yet__
 
 <h2>My favorite things</h2>
 
