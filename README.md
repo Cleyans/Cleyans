@@ -8,11 +8,11 @@
 
 <h2 align="left">Finished projects</h2>
 
-- __LIBFT__ > A library with useful fonctions that would help me for my next projects. >> __[HERE](https://github.com/Cleyans/Libft)__
-- __PRINTF__ > A recreated printf (Didn't do as mush as the normal one). >> __[HERE](https://github.com/Cleyans/Printf)__
-- __GET NEXT LINE__ > A fonction that is use to read line by line. >> __[HERE](https://github.com/Cleyans/GetNextLine)__
-- __SO LONG__ > A game created with the lib MiniLibX. >> __[HERE](https://github.com/Cleyans/SoLong)__
-- __PIPEX__ > A program that does like the pipe shell command at a certain extent. >> __[HERE](https://github.com/Cleyans/Pipex)__
+- __LIBFT__ > A library with useful fonctions that would help me for my next projects.&nbsp; >> &nbsp;__[HERE](https://github.com/Cleyans/Libft)__
+- __PRINTF__ > A recreated printf (Didn't do as mush as the normal one).&nbsp; >> &nbsp;__[HERE](https://github.com/Cleyans/Printf)__
+- __GET NEXT LINE__ > A fonction that is use to read line by line.&nbsp; >> &nbsp;__[HERE](https://github.com/Cleyans/GetNextLine)__
+- __SO LONG__ > A game created with the lib MiniLibX.&nbsp; >> &nbsp;__[HERE](https://github.com/Cleyans/SoLong)__
+- __PIPEX__ > A program that does like the pipe shell command at a certain extent.&nbsp; >>.&nbsp; __[HERE](https://github.com/Cleyans/Pipex)__
 
 <h2>The projects that i'm curently doing</h2>
 
