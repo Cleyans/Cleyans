@@ -8,7 +8,7 @@
 
 <h2 align="left">Finished projects</h2>
 
-- __LIBFT__&nbsp; > &nbsp;A library with useful fonctions that would help me for my next projects.&nbsp; >> &nbsp;_[HERE](https://github.com/Cleyans/Libft)_
+- **_LIBFT_**&nbsp; > &nbsp;A library with useful fonctions that would help me for my next projects.&nbsp; >> &nbsp;_[HERE](https://github.com/Cleyans/Libft)_
 - __PRINTF__&nbsp; > &nbsp;A recreated printf (Didn't do as mush as the normal one).&nbsp; >> &nbsp;_[HERE](https://github.com/Cleyans/Printf)_
 - __GET NEXT LINE__&nbsp; > A &nbsp;fonction that is use to read line by line.&nbsp; >> &nbsp;_[HERE](https://github.com/Cleyans/GetNextLine)_
 - __SO LONG__ &nbsp;> &nbsp;A game created with the lib MiniLibX.&nbsp; >> &nbsp;_[HERE](https://github.com/Cleyans/SoLong)_
