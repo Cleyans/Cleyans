@@ -11,7 +11,7 @@
 - **_LIBFT_**&nbsp; > &nbsp;A library with useful fonctions that would help me for my next projects.&nbsp; >> &nbsp;_[HERE](https://github.com/Cleyans/Libft)_
 - **_PRINTF_**&nbsp; > &nbsp;A recreated printf (Didn't do as mush as the normal one).&nbsp; >> &nbsp;_[HERE](https://github.com/Cleyans/Printf)_
 - **_GET NEXT LINE_**&nbsp; > A &nbsp;fonction that is use to read line by line.&nbsp; >> &nbsp;_[HERE](https://github.com/Cleyans/GetNextLine)_
-- **_SO LONG_**&nbsp; > &nbsp;A game created with the lib MiniLibX.&nbsp; >> &nbsp;_[HERE](https://github.com/Cleyans/SoLong)_
+- **_SO LONG_**&nbsp; > &nbsp; A game created with the lib MiniLibX.&nbsp; >> &nbsp;_[HERE](https://github.com/Cleyans/SoLong)_
 - **_PIPEX_**&nbsp; > &nbsp;A program that does like the pipe shell command at a certain extent.&nbsp; >>.&nbsp; _[HERE](https://github.com/Cleyans/Pipex)_
 
 <h2>The projects that i'm curently doing</h2>
