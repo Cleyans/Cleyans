@@ -1,7 +1,7 @@
 # Welcome to my profile !
 
 ## About me
-- I am a French student at [School 42 Le Havre](https://www.42lehavre.fr/).
+- I am a French student at [42School Le Havre](https://www.42lehavre.fr/).
 - I actually never code before, I tried the "Piscine" because i didn't know what to do in the future and i surprisingly loved it.
 - So know i'm doing the courses at 42, learning C, C++ and on the side i'm trying to learn JS, CSS and maybe more in the future.
 
