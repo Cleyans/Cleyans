@@ -17,6 +17,9 @@
 - [Philosophers](lien_vers_le_projet_4): I have to resolve the philosophers problem in C.
 - [MiniShell](lien_vers_le_projet_5): Recreate a shell at a certain extent.
 
+## Personal projects
+- None yet
+
 ## My favorite things
 - My favorite animal are Fox and Cats ! 🐈 🦊
 - My favorite color is Purple 💜
