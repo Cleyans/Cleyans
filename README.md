@@ -10,7 +10,7 @@
 - [PRINTF](https://github.com/Cleyans/Printf): The `Printf` project is a custom implementation of the `printf` function in C. It allows you to format and print text to the console or a file..
 - [GETNEXTLINE](https://github.com/Cleyans/GetNextLine): This project is a function that reads a line from a file descriptor and returns it without the newline character.
 - [SOLONG](https://github.com/Cleyans/SoLong): `Solong` is a game created with the `MiniLibX` library.
-- [PIPEX](https://github.com/Cleyans/Pipex): This guide explains how to use the `pipex` project to execute shell commands through pipes.
+- [PIPEX](https://github.com/Cleyans/Pipex): The `pipex` project is a tool that allows you to execute shell commands using pipes.
 - [PUSHSWAP](https://github.com/Cleyans/Push-swap): `Push-swap` is a program that sorts a stack of integers using a limited set of operations. It implements the sorting algorithm called "RADIX".
 
 ## Projets futurs
