@@ -13,7 +13,7 @@
 - [PIPEX](https://github.com/Cleyans/Pipex): The `pipex` project is a tool that allows you to execute shell commands using pipes.
 - [PUSHSWAP](https://github.com/Cleyans/Push-swap): `Push-swap` is a program that sorts a stack of integers using a limited set of operations. It implements the sorting algorithm called "RADIX".
 
-## Projets futurs
+## Futurs projects
 - [Philosophers](lien_vers_le_projet_4): I have to resolve the philosophers problem in C.
 - [MiniShell](lien_vers_le_projet_5): Recreate a shell at a certain extent.
 
