@@ -7,7 +7,7 @@
 
 ## Finished projects
 - [LIBFT](https://github.com/Cleyans/Libft): `Libft` is a C library that provides implementations of certain standard C library functions, as well as additional useful functions.
-- [PRINT](https://github.com/Cleyans/Printf): The `Printf` project is a custom implementation of the `printf` function in C. It allows you to format and print text to the console or a file..
+- [PRINTF](https://github.com/Cleyans/Printf): The `Printf` project is a custom implementation of the `printf` function in C. It allows you to format and print text to the console or a file..
 - [GETNEXTLINE](https://github.com/Cleyans/GetNextLine): This project is a function that reads a line from a file descriptor and returns it without the newline character.
 - [SOLONG](https://github.com/Cleyans/SoLong): `Solong` is a game created with de `MiniLibX` library.
 - [PIPEX](https://github.com/Cleyans/Pipex): This guide explains how to use the `pipex` project to execute shell commands through pipes.
